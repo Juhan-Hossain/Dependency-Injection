@@ -1,0 +1,30 @@
+C:\Users\BS161\Desktop\Programming work\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.exe
+C:\Users\BS161\Desktop\Programming work\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.deps.json
+C:\Users\BS161\Desktop\Programming work\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.json
+C:\Users\BS161\Desktop\Programming work\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.dev.json
+C:\Users\BS161\Desktop\Programming work\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.dll
+C:\Users\BS161\Desktop\Programming work\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.pdb
+C:\Users\BS161\Desktop\Programming work\DependencyInjection\bin\Debug\netcoreapp3.1\Ninject.dll
+C:\Users\BS161\Desktop\Programming work\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\BS161\Desktop\Programming work\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\BS161\Desktop\Programming work\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfo.cs
+C:\Users\BS161\Desktop\Programming work\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\BS161\Desktop\Programming work\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CopyComplete
+C:\Users\BS161\Desktop\Programming work\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.dll
+C:\Users\BS161\Desktop\Programming work\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.pdb
+C:\Users\BS161\Desktop\Programming work\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.genruntimeconfig.cache
+C:\Users\BS161\Desktop\Programmingwork\C#\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.exe
+C:\Users\BS161\Desktop\Programmingwork\C#\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.deps.json
+C:\Users\BS161\Desktop\Programmingwork\C#\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.json
+C:\Users\BS161\Desktop\Programmingwork\C#\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.dev.json
+C:\Users\BS161\Desktop\Programmingwork\C#\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.dll
+C:\Users\BS161\Desktop\Programmingwork\C#\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.pdb
+C:\Users\BS161\Desktop\Programmingwork\C#\DependencyInjection\bin\Debug\netcoreapp3.1\Ninject.dll
+C:\Users\BS161\Desktop\Programmingwork\C#\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\BS161\Desktop\Programmingwork\C#\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\BS161\Desktop\Programmingwork\C#\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfo.cs
+C:\Users\BS161\Desktop\Programmingwork\C#\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\BS161\Desktop\Programmingwork\C#\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CopyComplete
+C:\Users\BS161\Desktop\Programmingwork\C#\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.dll
+C:\Users\BS161\Desktop\Programmingwork\C#\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.pdb
+C:\Users\BS161\Desktop\Programmingwork\C#\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.genruntimeconfig.cache
